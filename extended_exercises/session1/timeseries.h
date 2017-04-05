@@ -21,6 +21,6 @@ namespace exercise_one
 
     inline TimeSeries operator+(TimeSeries lhs, const TimeSeries& rhs){
 
-    return lhs+=rhs;
-}
+        return lhs+=rhs;
+    }
 }
